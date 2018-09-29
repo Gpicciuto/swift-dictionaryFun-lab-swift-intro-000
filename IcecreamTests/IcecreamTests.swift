@@ -7,6 +7,9 @@
 //
 
 import XCTest
+import Foundation
+import UIKit
+
 @testable import Icecream
 
 class IcecreamTests: XCTestCase {
